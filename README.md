@@ -16,3 +16,21 @@ The original PBIX can embed the unredacted source data. It is not included in th
 
 - Power BI Desktop
 - Use the anonymized workbook above when reconnecting or rebuilding the report
+
+## Dashboard previews
+
+### Overview
+
+![Airbnb overview](screenshots/01-overview.png)
+
+### Property and room type
+
+![Property and room type analysis](screenshots/02-property-room-type.png)
+
+### Price and location
+
+![Price and location analysis](screenshots/03-price-location.png)
+
+### Host and review analysis
+
+![Host and review analysis](screenshots/04-host-review-pricing.png)
